@@ -1,7 +1,4 @@
 # -*- coding : utf-8 -*- 
-#from chainer import cuda, Function, gradient_check, report, training, utils, Variable
-#from chainer import datasets, iterators, optimizers, serializers
-#from chainer import Link, Chain, ChainList
 import chainer
 import chainer.functions as F
 import chainer.links as L
