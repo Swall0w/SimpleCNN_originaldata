@@ -15,9 +15,6 @@ import numpy as np
 import sys
 import pickle
 import numpy as np
-#from skimage import io
-#import glob
-#from PIL import Image
 import os
 
 def train_model(EPOCH_NUM=100,BATCH_NUM=20):
