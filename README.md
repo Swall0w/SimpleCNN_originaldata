@@ -8,4 +8,4 @@ and put image data into labeded directory like 0,1,..
 
 After that, run train.py
 
-You can validate a trained model with the script named 'test.py'
+You can validate a trained model with the script named 'test.py' that load model named "recog.model" on same directory.
