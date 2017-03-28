@@ -1,4 +1,9 @@
 # -*- coding:utf-8 -*-
+'''
+This is a class that converts json file to csv file.
+You can load this class easily with an input file name.
+
+'''
 import csv
 import json
 import sys
