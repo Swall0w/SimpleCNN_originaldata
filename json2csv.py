@@ -1,7 +1,8 @@
 # -*- coding:utf-8 -*-
 '''
 This is a class that converts json file to csv file.
-You can load this class easily with an input file name.
+You can load this class easily with an input file name and output file name.
+This class is made for chainer log parser but it'll be modified to an another type of file converter.
 
 '''
 import csv
