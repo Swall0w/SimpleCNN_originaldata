@@ -2,6 +2,7 @@
 '''
 This is a neural network model fot CNN.
 The model is too simple to learn , so you can modify it easiliy with like bath norm and so on.
+It consists of 3 layers that include a Convolutional layer and max pooling layer each.
 
 '''
 import chainer
