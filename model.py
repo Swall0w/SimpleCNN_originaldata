@@ -1,4 +1,9 @@
 # -*- coding : utf-8 -*- 
+'''
+This is a neural network model fot CNN.
+The model is too simple to learn , so you can modify it easiliy with like bath norm and so on.
+
+'''
 import chainer
 import chainer.functions as F
 import chainer.links as L
